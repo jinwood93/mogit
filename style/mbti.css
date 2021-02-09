@@ -1,0 +1,112 @@
+/* 래퍼 시작 */
+
+.wrapper-main-body-grid-step-cont-choice-box{
+    font-size:20pt ; width:70px;height:80px;
+    padding-left:5%;
+    padding-right:5%;
+}
+.font-style{
+    font-size:50px;
+    padding-bottom:50px;
+    padding-top: 50px;
+}
+.wrapper-main-body-grid-step-cont-choice{
+    color:white;
+    padding-bottom: 60px;
+    padding-left: 15px;
+    padding-right: 15px;
+}
+.wrpper-main-body-grid{
+    background-color: gray;
+    padding: 0 20%;
+}
+
+.wrapper-main-body-grid-step{
+    background-color: black;
+    text-align: center;
+    width: 100%;
+    border:1px solid black
+}
+
+.wrapper-main-body-grid-step-control-box{
+    text-align: left;
+}
+
+.wrapper-main-body-grid-step-control-box-back{
+    font-size:20px;
+    color:white;
+    background-color:rgb(255, 0, 98);
+    border-radius: 30%;
+   
+}
+.icon-size{
+    width:30px;height:30px;border:1px;
+    
+}
+#main-button{
+    margin-bottom:20px;
+}
+.grid-title-text{
+    text-align: center;
+   font-size:30px;
+   background-color: rgb(134, 133, 131);
+}
+
+#container{
+    text-align: center;
+    padding-bottom: 90px;
+}
+.class-recommended{
+    text-align: center;
+}
+#main-button{
+    font-family: 'jua';
+    background-color: rgb(255, 0, 98);
+    color:white;
+    border: 1px white;
+    font-size:20px;
+    padding: 10, 20;
+}
+.class-box-tag{
+    text-align: center;
+}
+.tag-img{
+    width: 50px;
+    height: 50px;
+}
+.class-box{
+    width: 400px; 
+    line-height: 70px;
+    background-color:black;
+    color:white;
+    text-align: center;
+    display: inline-block;
+    margin-bottom: 20px;
+    margin-left:15px;
+    margin-right:15px;
+    margin-top:15px;
+    border-radius:10%;
+
+}
+.class-box:hover{
+    background-color: rgb(255, 0, 98);
+}
+.img-size{
+    width: 400px;
+    height: 150px;
+    border-radius: 10px;
+}
+.title-box{
+    margin-bottom: 0px;
+    margin-top: 0px;
+    height: 60px;
+}
+
+.wrapper-title{
+    padding-top: 50px;
+}
+.wrapper-main{
+    font-size: 24px;
+}
+/* 래퍼 끝 */
+

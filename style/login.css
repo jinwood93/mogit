@@ -1,0 +1,110 @@
+body{
+    width: 100%;
+    height: 100%;
+    background-color: rgb(28,28,28);
+    text-align: center;
+}
+.wrapper-login-btnHome img{
+    width: 400px;
+}
+.wrapper-login-body{
+
+margin: 0;
+width: 99%;
+height: 750px;
+text-align: center;
+
+}
+
+.wrapper-login-switcher{
+    display: inline-block;
+    width: 400px;
+    height: 50px;
+}
+.wrapper-register-switcher-btn{
+    box-sizing: border-box;
+    text-decoration: none;
+    color: rgb(128, 137, 145);;
+    font-size: 18px;
+    font-family: 'jua';
+    display: inline-block;
+    text-align: left;
+    float:  left;
+    width:193px;
+    height: 50px;
+    border-bottom: 2px solid  rgb(128, 137, 145);
+}
+
+.wrapper-login-switcher-btn{
+    box-sizing: border-box;
+    text-decoration: none;
+    color: rgb(237, 35, 75);
+    font-size: 18px;
+    text-align: left;
+    font-family: 'jua';
+    display: inline-block;
+    float:  left;
+    width: 200px;
+    height: 50px;
+    border-bottom: 2px solid rgb(237, 35, 75);
+    
+}
+
+
+#wrapper-login-info-user-name{
+    padding-right: 0;
+    padding-left: 0;
+    border-top: 0 none;
+    border-right: 0 none;
+    border-bottom-color: #c5c5c5;
+    background-color: none;
+    
+}
+.wrapper-login-info{
+    display: inline-block;
+    line-height: 40px;
+    width: 400px;
+    height: 400px;
+    left: 750px;
+}
+.wrapper-login-info-label{
+    color:  #c5c5c5;
+    text-align: left;
+    display: inline-block;
+}
+
+.wrapper-login-info-box-title{
+    text-align: left;
+}
+.wrapper-login-info-box-text{  border-bottom: 1px solid  rgb(128, 137, 145);}
+
+
+input{
+    width: 400px;
+    color: white;
+    background-color: transparent;
+    border: transparent;
+}
+input:focus {outline:none;}
+.wrapper-login-info-sign-up{
+    width: 410px;
+    height: 50px;
+    text-align: center;
+    position: relative;
+    margin: -200px auto;
+    
+}
+#wrapper-login-info-sign-in-btn{
+    width: 200px;
+    height: 40px;
+    box-sizing: border-box;
+    background-color: rgb(128, 137, 145);
+    border-radius: 10px;
+    font-weight: bold;
+}
+
+#wrapper-login-info-sign-in-btn:hover{
+    background-color: rgb(237, 35, 75);
+    box-shadow: 0px 4px 2px 0px rgba(0, 0, 0, 0.582);
+    cursor: pointer;
+}
